@@ -1,0 +1,13 @@
+C:\Users\Rodolfo\source\repos\protocoloManchester\bin\Debug\netcoreapp3.1\protocoloManchester.exe
+C:\Users\Rodolfo\source\repos\protocoloManchester\bin\Debug\netcoreapp3.1\protocoloManchester.deps.json
+C:\Users\Rodolfo\source\repos\protocoloManchester\bin\Debug\netcoreapp3.1\protocoloManchester.runtimeconfig.json
+C:\Users\Rodolfo\source\repos\protocoloManchester\bin\Debug\netcoreapp3.1\protocoloManchester.runtimeconfig.dev.json
+C:\Users\Rodolfo\source\repos\protocoloManchester\bin\Debug\netcoreapp3.1\protocoloManchester.dll
+C:\Users\Rodolfo\source\repos\protocoloManchester\bin\Debug\netcoreapp3.1\protocoloManchester.pdb
+C:\Users\Rodolfo\source\repos\protocoloManchester\obj\Debug\netcoreapp3.1\protocoloManchester.csprojAssemblyReference.cache
+C:\Users\Rodolfo\source\repos\protocoloManchester\obj\Debug\netcoreapp3.1\protocoloManchester.AssemblyInfoInputs.cache
+C:\Users\Rodolfo\source\repos\protocoloManchester\obj\Debug\netcoreapp3.1\protocoloManchester.AssemblyInfo.cs
+C:\Users\Rodolfo\source\repos\protocoloManchester\obj\Debug\netcoreapp3.1\protocoloManchester.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo\source\repos\protocoloManchester\obj\Debug\netcoreapp3.1\protocoloManchester.dll
+C:\Users\Rodolfo\source\repos\protocoloManchester\obj\Debug\netcoreapp3.1\protocoloManchester.pdb
+C:\Users\Rodolfo\source\repos\protocoloManchester\obj\Debug\netcoreapp3.1\protocoloManchester.genruntimeconfig.cache
